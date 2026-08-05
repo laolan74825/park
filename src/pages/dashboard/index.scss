@@ -1,0 +1,26 @@
+.dashboard {
+  .area {
+    p {
+      color: #666;
+      line-height: 30px;
+    }
+  }
+  .icon {
+    font-size: 60px;
+  }
+}
+.card-echarts {
+  .ant-card-body {
+    height: 400px;
+  }
+  .wrapper {
+    text-align: center;
+    margin: 60px auto;
+  }
+  .timeline {
+    overflow-y: auto;
+    overflow-x: hidden;
+    height: 100%;
+  }
+}
+

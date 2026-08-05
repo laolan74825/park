@@ -1,0 +1,12 @@
+.room {
+  h1 {
+    text-align: center;
+  }
+  .room-info {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    line-height: 200%;
+  }
+}
